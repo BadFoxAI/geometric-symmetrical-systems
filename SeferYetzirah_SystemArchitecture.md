@@ -1,3 +1,14 @@
+# The System Architecture of the Sefer Yetzirah
+## A Technical Analysis of Fixed-Width Linguistic Computing
+
+**Status:** Supplemental Documentation  
+**Context:** Topological Computation / Linguistic Information Theory  
+**Paradigm:** Geometric Positional Systems  
+
+---
+
+### 1.0 Executive Summary
+
 The *Sefer Yetzirah* (Book of Formation) has traditionally been categorized as mystical literature. However, when analyzed through the constraints of **Fixed-Width Positional Systems**, it functions as a rigorous specification for a linguistic, hyper-dimensional computing machine.
 
 Unlike modern systems which separate Instruction Set (logic) from Address Space (memory), the system outlined in the SY integrates Meaning, Vector, Value, and Vibration into a unified holographic field. This document maps the core components of the SY onto modern computing topology, demonstrating a prehistoric specification for a **Balanced Ternary, Hypercubic Processor**.
