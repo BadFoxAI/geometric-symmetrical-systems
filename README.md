@@ -1,5 +1,7 @@
 # The Geometric Symmetry of Fixed-Width Positional Systems
 
+[The Geometric Symmetry of Fixed-Width Positional Systems](https://geometric-symmetrical-systems.netlify.app/)
+
 ## Introduction
 
 Positional number systems, such as binary or decimal, are traditionally viewed as linear progressions used to measure magnitude. However, when these systems are constrained to a **fixed width**—meaning they are limited to a specific number of digits—they cease to function as open-ended lines and instead behave as **closed, deterministic geometric fields**.
